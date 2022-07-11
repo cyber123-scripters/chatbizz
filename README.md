@@ -4,12 +4,12 @@
 
 1. Made a chat room for freinds and families where users can connect with each other and share ideas,general talks.<br>
 
-<h5> Used Technologies</h5>
-<b>Name of Developer | 
-:--|:--|
-<b> Institute | 
-<b> Email id|    
-<b> Department | 
+<b> Used Technologies:-
+  1.Node.js
+  2.Express.js
+  3.Socket.io
+  4.Javascript.
+
 
 ![Screenshot (148)](https://user-images.githubusercontent.com/69783183/178280980-69654734-4549-4c31-bc73-91667564b668.png)
 
