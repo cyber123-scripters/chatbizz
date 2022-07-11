@@ -4,7 +4,7 @@
 
 1. Made a chat room for freinds and families where users can connect with each other and share ideas,general talks.<br>
 
-<b> Used Technologies:-
+<b> Used Technologies:-<br>
   1.Node.js<br>
   2.Express.js<br>
   3.Socket.io<br>
