@@ -4,6 +4,13 @@
 
 1. Made a chat room for freinds and families where users can connect with each other and share ideas,general talks.<br>
 
+<h1>Usage:-</h1><br>
+
+npm install<br>
+npm run dev<br>
+
+Go to localhost :3000<br>
+
 <b> Used Technologies:-<br>
   1.Node.js<br>
   2.Express.js<br>
